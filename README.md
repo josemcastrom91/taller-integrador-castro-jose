@@ -18,4 +18,4 @@
 
 ## 🌐 Enlaces del Proyecto
 * **Sitio Web Publicado (Netlify):** `[INSERTAR_TU_LINK_DE_NETLIFY]`
-* **Repositorio en GitHub:** `https://github.com/josemcastrom91/taller-integrador-castro-jose`
+* **Repositorio en GitHub:** `https://github.com/josemcastrom91/taller-integrador-castro`
