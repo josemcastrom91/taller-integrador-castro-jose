@@ -1,4 +1,4 @@
-# taller-integrador-castro-jose cortyes 1 y 2
+# taller-integrador-castro cortyes 1 y 2
 **Asignatura:** Buenas Prácticas de Desarrollo de Software
 **Estudiante:** José Miguel Castro Mercado
 **Institución:** Corporación Universidad de la Costa (CUC)
